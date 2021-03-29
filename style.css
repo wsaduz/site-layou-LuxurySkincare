@@ -1,0 +1,111 @@
+@font-face {
+    font-family: "Trips";
+    src: url(fonts/GabrielSans-Bold.otf) format('truetype');
+}
+body {
+    margin: 0;
+    /* padding: 2%; */
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.header {
+    padding: 2%;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.sulwhasoo-title {
+    margin: auto;
+    width: 80%;
+    border: 37px solid #C5DFFF;
+    text-align: center;
+    padding: 26px;
+}
+
+.sulw-title {
+    font-size: 27px;
+    color: #999999;
+}
+
+.sulwhasoo-name {
+    margin: auto;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+.sulwhasoo-text {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 2px;
+    line-height: 25px;
+    color: #101010;
+}
+
+.holistic {
+    padding: 2%;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.items {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 2px;
+    text-align: justify;
+    line-height: 25px;
+    color: #101010;
+}
+
+.hol-title {
+    margin-bottom: 40px;
+    text-align: end;
+    font-weight: normal;
+    font-size: 26px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.center {
+    width: 80%;
+    margin: auto;
+}
+
+.sulws {
+    margin-top: 100px;
+}
+
+.sulws-title {
+    font-size: 18px;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+.flexbox {
+    width: 100%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+
+.sulw-banner {
+    padding-top: 100px;
+    width: 100%;
+    border-right: 200px solid #C5DFFF;
+    display: flex;
+    justify-content: center;
+    /* background-color: grey; */
+}
+/* .asd {
+    width: 30%;
+    height: 100px;
+    background-color: #C5DFFF;
+} */
